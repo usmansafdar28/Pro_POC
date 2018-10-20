@@ -4,7 +4,7 @@ describe('Protractor Arithmatic Operations', function() {
 
   // Initialized the Page Object
   var pageObjectSum = new PageObjectSum();
-
+ // Execution starts here:
   beforeEach(function() {
     browser.driver.get('http://juliemr.github.io/protractor-demo/');
   });
