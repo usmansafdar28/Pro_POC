@@ -2,6 +2,7 @@ var PageObjectSum = require('./pageObjects/pageObjectSum');
 // This is main business handling file
 describe('Protractor Arithmatic Operations', function() {
 
+  // Initialized the Page Object
   var pageObjectSum = new PageObjectSum();
 
   beforeEach(function() {
