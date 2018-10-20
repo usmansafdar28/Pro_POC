@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Protractor Arithmatic Operations" timestamp="2018-10-20T12:41:24" hostname="localhost" time="9.496" errors="0" tests="4" skipped="0" failures="0">
+  <testcase classname="Protractor Arithmatic Operations" name="should have a title" time="3.715">
+  </testcase>
+  <testcase classname="Protractor Arithmatic Operations" name="should add one and two" time="3.307">
+  </testcase>
+  <testcase classname="Protractor Arithmatic Operations" name="should add four and six" time="2.193">
+  </testcase>
+  <testcase classname="Protractor Arithmatic Operations" name="should read the value from an input" time="0.281">
+  </testcase>
+ </testsuite>
+</testsuites>
