@@ -9,8 +9,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "e2e": "protractor"
+    "webdriver": "webdriver-manager update",
+    "protractor": "node protractor config.js",
+    "test": "npm-run-all -s webdriver protractor"
   },
   "author": "",
   "license": "ISC"
